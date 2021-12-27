@@ -8,6 +8,10 @@ For this Classification i Used:
 2) RBF Kernel
 3) Polynomial Kernel
 4) Linear Kernel
+5)
+# Result
+
+From this SVM with RBF Kernel model gives better classification
 
 # Tools Used
 
