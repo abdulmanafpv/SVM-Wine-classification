@@ -6,7 +6,7 @@ Built a Wine classification model by using SVM(Support Vector Machine)
 
 # Objective: 
 Create a model for Wine classification
-# Steps and tasks:
+# Steps and Tasks:
 1. Exploratory Data Analysis
 2. Find a good Wine classification model by using SVM
 
