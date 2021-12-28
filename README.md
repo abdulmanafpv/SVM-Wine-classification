@@ -11,7 +11,7 @@ Create a model for Wine classification
 2. Find a good Wine classification model by using SVM
 
 # Contents
-This is a Wine Data set. We use SVM Classification for Classify Wine. 
+This is a Wine Data set. This data set contains 178 rows and 14 columns. We use SVM Classification for Classify Wine. 
 
 For this Classification i Used:
 1) SVM
